@@ -4,7 +4,7 @@
 //
 //  Created by Vincent Lee on 1/19/17.
 //  Copyright © 2017 Vincent Lee. All rights reserved.
-//
+//  Interface for an array based BAG and STACK data structure
 
 #ifndef ArrayBagStack
 #define ArrayBagStack
